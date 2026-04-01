@@ -1,0 +1,122 @@
+[
+  {
+    "rank": 1,
+    "user_id": 3,
+    "wallet_address": "1002077321.user",
+    "nickname": "非酋传奇260",
+    "created_at": "2026-03-25T06:31:56.805574+00:00",
+    "net_pnl": "7907.350387",
+    "roi_pct": "79.073503",
+    "equity": "17907.350387",
+    "trade_count": 16,
+    "win_rate": "81.25"
+  },
+  {
+    "rank": 2,
+    "user_id": 38,
+    "wallet_address": "680962042.user",
+    "nickname": "钻石手策士097",
+    "created_at": "2026-03-27T03:21:31.019336+00:00",
+    "net_pnl": "6587.583538",
+    "roi_pct": "65.875835",
+    "equity": "16587.583538",
+    "trade_count": 3,
+    "win_rate": "100.0"
+  },
+  {
+    "rank": 3,
+    "user_id": 21,
+    "wallet_address": "1002075060.user",
+    "nickname": "氪金选手854",
+    "created_at": "2026-03-25T11:52:21.636487+00:00",
+    "net_pnl": "2799.639862",
+    "roi_pct": "27.996398",
+    "equity": "12799.639862",
+    "trade_count": 12,
+    "win_rate": "100.0"
+  },
+  {
+    "rank": 4,
+    "user_id": 42,
+    "wallet_address": "1655237496.user",
+    "nickname": "逐浪传奇707",
+    "created_at": "2026-03-27T15:00:36.952642+00:00",
+    "net_pnl": "1165.267177",
+    "roi_pct": "11.652671",
+    "equity": "11165.267177",
+    "trade_count": 6,
+    "win_rate": "100.0"
+  },
+  {
+    "rank": 5,
+    "user_id": 6,
+    "wallet_address": "256396689.user",
+    "nickname": "满仓高手899",
+    "created_at": "2026-03-25T06:56:26.855619+00:00",
+    "net_pnl": "1070.481123",
+    "roi_pct": "10.704811",
+    "equity": "11070.481123",
+    "trade_count": 2,
+    "win_rate": "100.0"
+  },
+  {
+    "rank": 6,
+    "user_id": 71,
+    "wallet_address": "1458622914.user",
+    "nickname": "银狐舵爷529",
+    "created_at": "2026-03-31T14:04:00.423814+00:00",
+    "net_pnl": "867.706143",
+    "roi_pct": "8.677061",
+    "equity": "10867.706143",
+    "trade_count": 2,
+    "win_rate": "100.0"
+  },
+  {
+    "rank": 7,
+    "user_id": 56,
+    "wallet_address": "28048862.user",
+    "nickname": "GSC",
+    "created_at": "2026-03-30T02:57:53.177512+00:00",
+    "net_pnl": "725.189807",
+    "roi_pct": "7.251898",
+    "equity": "10725.189807",
+    "trade_count": 1,
+    "win_rate": "100.0"
+  },
+  {
+    "rank": 8,
+    "user_id": 52,
+    "wallet_address": "285421349.user",
+    "nickname": "破浪大师865",
+    "created_at": "2026-03-29T02:45:58.923093+00:00",
+    "net_pnl": "590.397796",
+    "roi_pct": "5.903977",
+    "equity": "10590.397796",
+    "trade_count": 12,
+    "win_rate": "100.0"
+  },
+  {
+    "rank": 9,
+    "user_id": 41,
+    "wallet_address": "1002070431.user",
+    "nickname": "抄底旗手228",
+    "created_at": "2026-03-27T08:32:06.111412+00:00",
+    "net_pnl": "589.839959",
+    "roi_pct": "5.898399",
+    "equity": "10589.839959",
+    "trade_count": 3,
+    "win_rate": "100.0"
+  },
+  {
+    "rank": 10,
+    "user_id": 45,
+    "wallet_address": "662402798.user",
+    "nickname": "暗影大佬303",
+    "created_at": "2026-03-27T18:01:48.300897+00:00",
+    "net_pnl": "529.656656",
+    "roi_pct": "5.296566",
+    "equity": "10529.656656",
+    "trade_count": 47,
+    "win_rate": "65.96"
+  }
+]

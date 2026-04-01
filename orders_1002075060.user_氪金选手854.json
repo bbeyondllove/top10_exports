@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "strategy_id": "c06c872c-cca6-46ba-9e0a-5fa6f4e078a9",
+    "user_id": 21,
+    "client_order_id": "c06c872c_entry_1",
+    "exchange_order_id": "PAPER_07a208fc",
+    "strategy_type": "martingale",
+    "market_type": "futures",
+    "symbol": "ETHUSDT",
+    "intent": "open_position",
+    "side": "BUY",
+    "target_quantity": "7.42857143",
+    "target_price": null,
+    "signal_price": "2100.00000000",
+    "metadata": {
+      "round": 1,
+      "multiplier": 1
+    },
+    "status": "filled",
+    "filled_quantity": "7.42857143",
+    "avg_fill_price": "2100.00000000",
+    "total_commission": "0.00000000",
+    "realized_pnl": null,
+    "execution_count": 0,
+    "retry_count": 0,
+    "error_message": null,
+    "created_at": "2026-04-01T09:29:59.999000+08:00",
+    "started_at": "2026-04-01T09:29:46.822000+08:00",
+    "completed_at": "2026-04-01T09:29:46.822000+08:00",
+    "updated_at": "2026-04-01T09:29:46.822000+08:00"
+  },
+  {
+    "id": 2,
+    "strategy_id": "c06c872c-cca6-46ba-9e0a-5fa6f4e078a9",
+    "user_id": 21,
+    "client_order_id": "c06c872c_tp_2",
+    "exchange_order_id": "PAPER_7dd4ad7d",
+    "strategy_type": "martingale",
+    "market_type": "spot",
+    "symbol": "ETHUSDT",
+    "intent": "take_profit",
+    "side": "BUY",
+    "target_quantity": "7.42857143",
+    "target_price": "2133.00000000",
+    "signal_price": "2133.00000000",
+    "metadata": {
+      "round": 1,
+      "tp_pct": null,
+      "scope": {
+        "type": "all"
+      }
+    },
+    "status": "filled",
+    "filled_quantity": "7.42857143",
+    "avg_fill_price": "2133.00000000",
+    "total_commission": "0.00000000",
+    "realized_pnl": null,
+    "execution_count": 0,
+    "retry_count": 0,
+    "error_message": null,
+    "created_at": "2026-04-01T14:08:51.075000+08:00",
+    "started_at": "2026-04-01T14:08:51.075000+08:00",
+    "completed_at": "2026-04-01T14:08:51.075000+08:00",
+    "updated_at": "2026-04-01T14:08:51.075000+08:00"
+  }
+]
